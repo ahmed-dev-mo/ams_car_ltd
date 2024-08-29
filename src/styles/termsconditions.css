@@ -1,0 +1,42 @@
+/* termsconditions.css */
+.terms-conditions-content {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .terms-conditions-content h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .terms-conditions-content h3 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .terms-conditions-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  
+  @media only screen and (max-width: 992px) {
+      .about__page-content h2 {
+        font-size: 1.5rem;
+      }
+    }
+    
+    @media only screen and (max-width: 767px) {
+      .about__page-img {
+        display: none;
+      }
+    }
+    
