@@ -35,7 +35,7 @@
   .car__btn-details {
     background: #f9a826;
     border-radius: 5px 5px 5px 5px;
-    display: flex;
+    display: inline;
     align-items: center;
     justify-content: center;
   }
