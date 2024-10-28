@@ -1,29 +1,5 @@
 // import all images from assets/images directory
 
-//BX65 YOT
-import BX65YOT_Main_image from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_Main_image.png";
-import BX65YOT_1 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_1.png";
-import BX65YOT_2 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_2.png";
-import BX65YOT_3 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_3.png";
-import BX65YOT_4 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_4.png";
-import BX65YOT_5 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_5.png";
-import BX65YOT_6 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_6.png";
-import BX65YOT_7 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_7.png";
-import BX65YOT_8 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_8.png";
-import BX65YOT_9 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_9.png";
-import BX65YOT_10 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_10.png";
-import BX65YOT_11 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_11.png";
-import BX65YOT_12 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_12.png";
-import BX65YOT_13 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_13.png";
-import BX65YOT_14 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_14.png";
-import BX65YOT_15 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_15.png";
-import BX65YOT_16 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_16.png";
-import BX65YOT_17 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_17.png";
-import BX65YOT_18 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_18.png";
-import BX65YOT_19 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_19.png";
-import BX65YOT_20 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_20.png";
-import BX65YOT_21 from "../all-images/car-pics-and-description/BX65YOT/BX65YOT_21.png";
-
 //CN16 LLO
 import CN16LLO_Mainimage from "../all-images/car-pics-and-description/CN16LLO/CN16LLO_Mainimage.jpg";
 import CN16LLO_1 from "../all-images/car-pics-and-description/CN16LLO/CN16LLO_1.jpg";
@@ -200,48 +176,7 @@ import CA16ZNN_30 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_3
 
 
 const carData = [
-  // //BX65 YOT
-  // {
-  //   id: 1,
-  //   carName: "Ford Fiesta Titanium X",
-  //   brand: "Ford",
-  //   model: "Fiesta",
-  //   imgUrl: BX65YOT_Main_image,
-  //   slide: [
-  //     BX65YOT_Main_image,
-  //     BX65YOT_1,
-  //     BX65YOT_2,
-  //     BX65YOT_3,
-  //     BX65YOT_4,
-  //     BX65YOT_5,
-  //     BX65YOT_6,
-  //     BX65YOT_7,
-  //     BX65YOT_8,
-  //     BX65YOT_9,
-  //     BX65YOT_10,
-  //     BX65YOT_11,
-  //     BX65YOT_12,
-  //     BX65YOT_13,
-  //     BX65YOT_14,
-  //     BX65YOT_15,
-  //     BX65YOT_16,
-  //     BX65YOT_17,
-  //     BX65YOT_18,
-  //     BX65YOT_19,
-  //     BX65YOT_20,
-  //     BX65YOT_21,
-  //   ],
-  //   price: "7,299",
-  //   fuelType: "Petrol",
-  //   transmission: "Manual",
-  //   colour: "Blue",
-  //   description:
-  //     "We are proud to offer this beautiful example of a practical hatch. The car is in excellent condition with full service history. Only one previous owner from new. The rarest spec example for a ford fiesta. The spec list includes reversing camera - heated seats - black leather seats - keyless entry - keyless start stop function - Bluetooth connectivity - Sat nav - cruise control and speed limiter - climate control and the list goes on. An absolute monster spec. Immaculate condition throughout the body work and interior. A great choice for small families and daily commuters. Affordable running costs and maintenance. The car comes with two keys and full service history. We offer 6 month warranty with the option to extend it. Please do not hesitate to get in contact for more information. Any viewing are welcome by booking.",
-  //   bodyStyle: "Hatchback",
-  //   engineSize: "Engine Size - 998 cc",
-  //   euroStatus: "Euro Status - 6b",
-  //   dateofRegistration:	"29 September 2015",
-  // },
+
   //CN16 LLO
   {
     id: 2,
@@ -402,48 +337,7 @@ engineSize: "Engine Size - 1399 cc",
 euroStatus: "Euro Status - 6b",
 dateofRegistration:	"30 June 2017",
   },
-
-//  //YK64 HKY
-//   {
-    
-//     id: 6,
-//     carName: "Ford Fiesta Zetec",
-//     brand: "Ford",
-//     model: "Fiesta",
-//     imgUrl: YK64HKY_Mainimage,
-//     slide: [
-//       YK64HKY_Mainimage,
-//       YK64HKY_1,
-//       YK64HKY_2,
-//       YK64HKY_3,
-//       YK64HKY_4,
-//       YK64HKY_5,
-//       YK64HKY_6,
-//       YK64HKY_7,
-//       YK64HKY_8,
-//       YK64HKY_9,
-//       YK64HKY_10,
-//       YK64HKY_11,
-//       YK64HKY_12,
-//       YK64HKY_13,
-//       YK64HKY_14,
-//       YK64HKY_15,
-//       YK64HKY_16,
-//       YK64HKY_17,
-//       YK64HKY_18,
-//     ],
-//     price: "4,800",
-//     fuelType: "Petrol",
-//     transmission: "Manual",
-//     colour: "Grey",
-//     description:
-//     "We are proud to offer this beautiful example of a practical hatch. The car is in excellent condition with full service history. The car hasn't missed a beat of service. Drives flawlessly with clean interior condition. 2 owners from new. A great choice for small families and daily commuters. The car comes with two keys and full service history. Long MOT left. The car comes with 6 month warranty with extendable option. Please do not hesitate to get in contact for more information. Any viewing are welcome by booking.",
-//     bodyStyle: "Hatchback",
-//     engineSize: "Engine Size - 998 cc",
-//     euroStatus: "Euro Status - 5b",
-//     dateofRegistration:	"30 November 2014",
-//   },
-
+  
   //SC16BUW
   {
     
