@@ -130,6 +130,75 @@ import YK64HKY_16 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_1
 import YK64HKY_17 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_17.png";
 import YK64HKY_18 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_18.png";
 
+//SC16 BUW
+import SC16BUW_Mainimage from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_Mainimage.png";
+import SC16BUW_1 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_1.png";
+import SC16BUW_2 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_2.png";
+import SC16BUW_3 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_3.png";
+import SC16BUW_4 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_4.png";
+import SC16BUW_5 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_5.png";
+import SC16BUW_6 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_6.png";
+import SC16BUW_7 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_7.png";
+import SC16BUW_8 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_8.png";
+import SC16BUW_9 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_9.png";
+import SC16BUW_10 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_10.png";
+import SC16BUW_11 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_11.png";
+import SC16BUW_12 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_12.png";
+import SC16BUW_13 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_13.png";
+import SC16BUW_14 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_14.png";
+import SC16BUW_15 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_15.png";
+import SC16BUW_16 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_16.png";
+import SC16BUW_17 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_17.png";
+import SC16BUW_18 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_18.png";
+import SC16BUW_19 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_19.png";
+import SC16BUW_20 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_20.png";
+import SC16BUW_21 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_21.png";
+import SC16BUW_22 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_22.png";
+import SC16BUW_23 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_23.png";
+import SC16BUW_24 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_24.png";
+import SC16BUW_25 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_25.png";
+import SC16BUW_26 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_26.png";
+import SC16BUW_27 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_27.png";
+import SC16BUW_28 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_28.png";
+import SC16BUW_29 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_29.png";
+import SC16BUW_30 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_30.png";
+import SC16BUW_31 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_31.png";
+import SC16BUW_32 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_32.png";
+
+//CA16 ZNN
+import CA16ZNN_Mainimage from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_Main_image.png";
+import CA16ZNN_1 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_1.png";
+import CA16ZNN_2 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_2.png";
+import CA16ZNN_3 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_3.png";
+import CA16ZNN_4 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_4.png";
+import CA16ZNN_5 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_5.png";
+import CA16ZNN_6 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_6.png";
+import CA16ZNN_7 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_7.png";
+import CA16ZNN_8 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_8.png";
+import CA16ZNN_9 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_9.png";
+import CA16ZNN_10 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_10.png";
+import CA16ZNN_11 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_11.png";
+import CA16ZNN_12 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_12.png";
+import CA16ZNN_13 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_13.png";
+import CA16ZNN_14 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_14.png";
+import CA16ZNN_15 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_15.png";
+import CA16ZNN_16 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_16.png";
+import CA16ZNN_17 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_17.png";
+import CA16ZNN_18 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_18.png";
+import CA16ZNN_19 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_19.png";
+import CA16ZNN_20 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_20.png";
+import CA16ZNN_21 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_21.png";
+import CA16ZNN_22 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_22.png";
+import CA16ZNN_23 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_23.png";
+import CA16ZNN_24 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_24.png";
+import CA16ZNN_25 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_25.png";
+import CA16ZNN_26 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_26.png";
+import CA16ZNN_27 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_27.png";
+import CA16ZNN_28 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_28.png";
+import CA16ZNN_29 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_29.png";
+import CA16ZNN_30 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_30.png";
+
+
 const carData = [
   //BX65 YOT
   {
@@ -376,6 +445,113 @@ dateofRegistration:	"30 June 2017",
     dateofRegistration:	"30 November 2014",
   },
 
+  //SC16BUW
+  {
+    
+    id: 7,
+    carName: "Ford Focus 1.0T EcoBoost Zetec",
+    brand: "Ford",
+    model: "Focus",
+    imgUrl: SC16BUW_Mainimage,
+    slide: [
+      SC16BUW_Mainimage,
+      SC16BUW_1,
+      SC16BUW_2,
+      SC16BUW_3,
+      SC16BUW_4,
+      SC16BUW_5,
+      SC16BUW_6,
+      SC16BUW_7,
+      SC16BUW_8,
+      SC16BUW_9,
+      SC16BUW_10,
+      SC16BUW_11,
+      SC16BUW_12,
+      SC16BUW_13,
+      SC16BUW_14,
+      SC16BUW_15,
+      SC16BUW_16,
+      SC16BUW_17,
+      SC16BUW_18,
+      SC16BUW_19,
+      SC16BUW_20,
+      SC16BUW_21,
+      SC16BUW_22,
+      SC16BUW_23,
+      SC16BUW_24,
+      SC16BUW_25,
+      SC16BUW_26,
+      SC16BUW_27,
+      SC16BUW_28,
+      SC16BUW_29,
+      SC16BUW_30,
+      SC16BUW_31,
+      SC16BUW_32,
+    ],
+    price: "6,300",
+    fuelType: "Petrol",
+    transmission: "Manual",
+    colour: "Grey",
+    description:
+    "We are proud to offer this beautiful example of a practical hatch. The car has been very well looked after and maintained with full service history. The car hasn't missed a beat for service with 7 stamps in the book. An excellent choice for small families and daily commuters. Low running costs and high reliability. Here at AMS Cars we ensure the highest standard. Every car is carefully handpicked and prepared to the highest standards. We put ourselves in the customers shoes and your satisfaction is our top priority. We offer fully comprehensive warranty for 6 months and give you the option to extend it to your need and up to three years. The car comes with two keys and full service history. Any inspection or viewing are welcome by appointment. Please do not hesitate to reach out for any inquiries. Grey, 2 owners, £6,300",
+    bodyStyle: "Hatchback",
+    engineSize: "Engine Size - 999 cc",
+    euroStatus: "Euro Status - 6",
+    dateofRegistration:	"31 May 2016",
+  },
+
+  //CA16ZNN
+  {
+    
+    id: 8,
+    carName: "Vauxhall Mokka 1.6i Exclusiv",
+    brand: "Vauxhall",
+    model: "Mokka",
+    imgUrl: CA16ZNN_Mainimage,
+    slide: [
+      CA16ZNN_Mainimage,
+      CA16ZNN_1,
+      CA16ZNN_2,
+      CA16ZNN_3,
+      CA16ZNN_4,
+      CA16ZNN_5,
+      CA16ZNN_6,
+      CA16ZNN_7,
+      CA16ZNN_8,
+      CA16ZNN_9,
+      CA16ZNN_10,
+      CA16ZNN_11,
+      CA16ZNN_12,
+      CA16ZNN_13,
+      CA16ZNN_14,
+      CA16ZNN_15,
+      CA16ZNN_16,
+      CA16ZNN_17,
+      CA16ZNN_18,
+      CA16ZNN_19,
+      CA16ZNN_20,
+      CA16ZNN_21,
+      CA16ZNN_22,
+      CA16ZNN_23,
+      CA16ZNN_24,
+      CA16ZNN_25,
+      CA16ZNN_26,
+      CA16ZNN_27,
+      CA16ZNN_28,
+      CA16ZNN_29,
+      CA16ZNN_30,
+    ],
+    price: "6,500",
+    fuelType: "Petrol",
+    transmission: "Manual",
+    colour: "Brown",
+    description:
+    "We are proud to offer this beautiful example of a practical car. The car has been very well looked after and maintained with full service history. Spotless condition all around and excellent bodywork. The perfect choice for small families and daily commuters. Low running costs and high reliability. Here at AMS Cars we ensure the highest standard. Every car is carefully handpicked and prepared to the highest standards. We put ourselves in the customers shoes and your satisfaction is our top priority. We offer fully comprehensive warranty for 6 months and give you the option to extend it to your need up to three years. The car comes with two keys and service history. Any inspection or viewing are welcome by appointment. Please do not hesitate to reach out for any inquiries. Brown, 2 owners, £6,500",
+    bodyStyle: "SUV",
+    engineSize: "Engine Size - 1598 cc",
+    euroStatus: "Euro Status - 6",
+    dateofRegistration:	"05 July 2016",
+  },
 ];
 
 export default carData;
