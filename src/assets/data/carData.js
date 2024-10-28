@@ -85,27 +85,6 @@ import SV66UHG_16 from "../all-images/car-pics-and-description/SV66UHG/SV66UHG_1
 import SV66UHG_17 from "../all-images/car-pics-and-description/SV66UHG/SV66UHG_17.jpg";
 import SV66UHG_18 from "../all-images/car-pics-and-description/SV66UHG/SV66UHG_18.jpg";
 
-//YK64 HKY
-import YK64HKY_Mainimage from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_Mainimage.png";
-import YK64HKY_1 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_1.png";
-import YK64HKY_2 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_2.png";
-import YK64HKY_3 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_3.png";
-import YK64HKY_4 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_4.png";
-import YK64HKY_5 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_5.png";
-import YK64HKY_6 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_6.png";
-import YK64HKY_7 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_7.png";
-import YK64HKY_8 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_8.png";
-import YK64HKY_9 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_9.png";
-import YK64HKY_10 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_10.png";
-import YK64HKY_11 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_11.png";
-import YK64HKY_12 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_12.png";
-import YK64HKY_13 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_13.png";
-import YK64HKY_14 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_14.png";
-import YK64HKY_15 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_15.png";
-import YK64HKY_16 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_16.png";
-import YK64HKY_17 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_17.png";
-import YK64HKY_18 from "../all-images/car-pics-and-description/YK64HKY/YK64HKY_18.png";
-
 //SC16 BUW
 import SC16BUW_Mainimage from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_Mainimage.png";
 import SC16BUW_1 from "../all-images/car-pics-and-description/SC16BUW/SC16BUW_1.png";
