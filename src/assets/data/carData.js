@@ -153,6 +153,39 @@ import CA16ZNN_28 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_2
 import CA16ZNN_29 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_29.png";
 import CA16ZNN_30 from "../all-images/car-pics-and-description/CA16ZNN/CA16ZNN_30.png";
 
+//VU68 DZD
+import VU68DZD_Mainimage from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_Mainimage.png";
+import VU68DZD_1 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_1.png";
+import VU68DZD_2 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_2.png";
+import VU68DZD_3 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_3.png";
+import VU68DZD_4 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_4.png";
+import VU68DZD_5 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_5.png";
+import VU68DZD_6 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_6.png";
+import VU68DZD_7 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_7.png";
+import VU68DZD_8 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_8.png";
+import VU68DZD_9 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_9.png";
+import VU68DZD_10 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_10.png";
+import VU68DZD_11 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_11.png";
+import VU68DZD_12 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_12.png";
+import VU68DZD_13 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_13.png";
+import VU68DZD_14 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_14.png";
+import VU68DZD_15 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_15.png";
+import VU68DZD_16 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_16.png";
+import VU68DZD_17 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_17.png";
+import VU68DZD_18 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_18.png";
+import VU68DZD_19 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_19.png";
+import VU68DZD_20 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_20.png";
+import VU68DZD_21 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_21.png";
+import VU68DZD_22 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_22.png";
+import VU68DZD_23 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_23.png";
+import VU68DZD_24 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_24.png";
+import VU68DZD_25 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_25.png";
+import VU68DZD_26 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_26.png";
+import VU68DZD_27 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_27.png";
+import VU68DZD_28 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_28.png";
+import VU68DZD_29 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_29.png";
+import VU68DZD_30 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_30.png";
+import VU68DZD_31 from "../all-images/car-pics-and-description/VU68DZD/VU68DZD_31.png";
 
 const carData = [
 
@@ -424,6 +457,59 @@ dateofRegistration:	"30 June 2017",
     euroStatus: "Euro Status - 6",
     dateofRegistration:	"05 July 2016",
   },
+      //VU68DZD
+    {
+    
+      id: 9,
+      carName: "Vauxhall Astra 1.6 CDTi ecoTEC BlueInjection Tech Line Nav",
+      brand: "Vauxhall",
+      model: "Astra",
+      imgUrl: VU68DZD_Mainimage,
+      slide: [
+        VU68DZD_Mainimage,
+        VU68DZD_1,
+        VU68DZD_2,
+        VU68DZD_3,
+        VU68DZD_4,
+        VU68DZD_5,
+        VU68DZD_6,
+        VU68DZD_7,
+        VU68DZD_8,
+        VU68DZD_9,
+        VU68DZD_10,
+        VU68DZD_11,
+        VU68DZD_12,
+        VU68DZD_13,
+        VU68DZD_14,
+        VU68DZD_15,
+        VU68DZD_16,
+        VU68DZD_17,
+        VU68DZD_18,
+        VU68DZD_19,
+        VU68DZD_20,
+        VU68DZD_21,
+        VU68DZD_22,
+        VU68DZD_23,
+        VU68DZD_24,
+        VU68DZD_25,
+        VU68DZD_26,
+        VU68DZD_27,
+        VU68DZD_28,
+        VU68DZD_29,
+        VU68DZD_30,
+        VU68DZD_31,
+      ],
+      price: "7,500",
+      fuelType: "Diesel",
+      transmission: "Manual",
+      colour: "Grey",
+      description:
+      "We are proud to offer this beautiful example of a practical hatch. The car is in excellent condition with full service history. Great spec list including sat navigation, Bluetooth connectivity, cruise control and speed limiter, parking sensors, climate control, start stop button and the list goes on. Recent service. Immaculate condition throughout the body work and interior. A great choice for small families and daily commuters. The car comes with two keys and full service history. This is the 1.6 diesel variation offering the highest MPG in the astra range with low running costs. Long MOT left. We provide 6 months comprehensive warranty with the vehicle at no extra cost with the option for extended warranty. Please do not hesitate to get in contact for more information. Any viewing are welcome by booking. Grey, 2 owners, £7,500",
+      bodyStyle: "Hactchback",
+      engineSize: "Engine Size - 1600 cc",
+      euroStatus: "Euro Status - 6",
+      dateofRegistration:	"10 December 2018",
+    },
 ];
 
 export default carData;
